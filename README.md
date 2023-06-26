@@ -1,5 +1,7 @@
 # MusicGen
-This GitHub repository contains code for generating music from text using the Audiocraft library
+This GitHub repository contains code for generating music from text using the Audiocraft library.
+
+
 The repository includes the following steps:
 
 1. Installing the required dependencies, including the Audiocraft library.
